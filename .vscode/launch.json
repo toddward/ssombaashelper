@@ -12,10 +12,7 @@
       "env": {
         "FH_USE_LOCAL_DB": "true",
         "FH_MONGODB_CONN_URL": "mongodb://127.0.0.1:27017/FH_LOCAL",
-        "CTMS_SESSION_TYPE": "None",
-        // "FH_WIDGET": "2joptw32ic4g4l5svl3hghrc",
-        // "FH_SERVICE_MAP": "{\"57eey5adndipnpqvb3z6i5cm\":\"https://quintiles-57eey5adndipnpqvb3z6i5cm-qea-dev2.mbaas1.qea.feedhenry.com\",\"2joptw34izutubwiuu6rqgss\": \"https://quintiles-2joptw34izutubwiuu6rqgss-qea-dev.mbaas1.qea.feedhenry.com\",\"qsv4aq2wjgfxdg437q5jmgm5\":\"https://quintiles-szg3ssrezr5xzuc47u4oyehq-qea-dev2.mbaas1.qea.feedhenry.com\",\"szg3ssrezr5xzuc47u4oyehq\":\"https://quintiles-szg3ssrezr5xzuc47u4oyehq-qea-dev2.mbaas1.qea.feedhenry.com\",\"u7nic7curfj7x4z2zk455epf\":\"http://localhost:8002\"}"
-      }
+        "CTMS_SESSION_TYPE": "None"
     },
     {
       "type": "node",
